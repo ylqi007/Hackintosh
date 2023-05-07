@@ -1,0 +1,51 @@
+─ CPU
+  └── 13th Gen Intel(R) Core(TM) i7-13700K
+      ├── SSE: SSE4.2
+      ├── SSSE3: Supported
+      ├── Cores: 16
+      └── Threads: 24
+
+─ Motherboard
+  ├── Model: PRIME Z690-A
+  └── Vendor: ASUSTeK COMPUTER INC.
+
+─ GPU
+  └── Navi 23 [Radeon RX 6600/6600 XT/6600M]
+      ├── Device ID: 0x73ff
+      ├── Vendor: 0x1002
+      └── Codename: Dimgrey Cavefish
+
+─ Network
+  ├── Ethernet Controller I225-V
+  │   ├── Device ID: 0x15f3
+  │   ├── Vendor: 0x8086
+  │   ├── ACPI Path: \_SB_.PC00.RP04.D068
+  │   └── PCI Path: PciRoot(0x0)/Pci(0x1c,0x3)/Pci(0x0,0x0)
+  └── BCM4360 802.11ac Wireless Network Adapter
+      ├── Device ID: 0x43a0
+      ├── Vendor: 0x14e4
+      ├── ACPI Path: \_SB_.PC00.RP02.PXSX
+      └── PCI Path: PciRoot(0x0)/Pci(0x1c,0x1)/Pci(0x0,0x0)
+
+─ Audio
+  └── Alder Lake-S HD Audio Controller
+      ├── Device ID: 0x7ad0
+      ├── Vendor: 0x8086
+      ├── ACPI Path: \_SB_.PC00.HDAS
+      ├── PCI Path: PciRoot(0x0)/Pci(0x1f,0x3)
+      └── Codec: ALC1220
+
+─ Storage
+  ├──  WD_BLACK SN850X 2000GB
+  │   ├── Type: Non-Volatile Memory Express (NVMe)
+  │   ├── Connector: PCIe
+  │   └── Location: Internal
+  ├── Samsung Electronics Co Ltd Samsung SSD 970 EVO Plus 2TB
+  │   ├── Type: Non-Volatile Memory Express (NVMe)
+  │   ├── Connector: PCIe
+  │   └── Location: Internal
+  └── Samsung Type-C
+      ├── Type: Hard Disk Drive (HDD)
+      ├── Connector: SCSI
+      └── Location: External
+
